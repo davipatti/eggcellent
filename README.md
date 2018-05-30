@@ -4,8 +4,8 @@ Make excellent egg shapes.
 
 # Install
 
-It can be installed from command - line using [pip](https: // pypi.python.org /
-pypi / pip):
+It can be installed from command - line using
+[pip](https://pypi.org/project/pip/):
 
 ```bash
 pip install eggcellent
@@ -13,7 +13,7 @@ pip install eggcellent
 
 # Usage
 
-# Use a default egg:
+## Use a default egg:
 
 ```python
 from eggcellent import egg
@@ -23,7 +23,7 @@ plt.scatter([0, 1], [0, 1], marker=None, verts=egg, s=200)
 
 ![example1.png](eggs.png)
 
-# Make your own egg
+## Make your own egg
 
 ```python
 from eggcellent import make_egg

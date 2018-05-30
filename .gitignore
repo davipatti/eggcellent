@@ -1,0 +1,4 @@
+eggcellent.egg-info
+build
+dist
+*.pyc
